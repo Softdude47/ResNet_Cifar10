@@ -1,0 +1,6 @@
+# get mas_lib at https://github.com/softdude47/mas_lib
+mas_lib
+
+# model train/test plot and metrics
+*png
+*json
